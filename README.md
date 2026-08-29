@@ -27,7 +27,7 @@ I focus on architecture, correctness, performance, maintainability, security, an
 
 If an idea or problem requires software, I build the software. If it requires hardware, I build the hardware. Frequently, it requires both.
 
-> Languages are tools. Engineering is the discipline of choosing and applying the right ones.
+> Languages are tools. Engineering is the discipline of choosing and applying the right ones, as well as making architectural decisions.
 
 ## Professional References
 
