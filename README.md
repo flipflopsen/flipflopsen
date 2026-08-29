@@ -9,7 +9,7 @@ I am a software developer and engineer who builds systems to solve concrete tech
 - **Backend engineering:** Scalable services and infrastructure for high-throughput workloads
 - **Observability and operations:** Elastic/ELK Stack, Grafana, monitoring systems, logging pipelines, metrics, and operational diagnostics
 - **Automation and tooling:** PowerShell, Bash, and purpose-built utilities for development and infrastructure workflows
-- **Interdisciplinary engineering:** Collaboration across software engineering, biology, chemistry, IT security, and other scientific domains
+- **Interdisciplinary engineering:** Collaboration across software engineering, especially biology, medicine, Data-Analytics, IT security, and other scientific domains
 
 ## Engineering Principles
 
