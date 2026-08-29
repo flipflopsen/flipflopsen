@@ -13,7 +13,7 @@ I am a software developer and engineer who builds systems to solve concrete tech
 - **Automation and tooling:** PowerShell, Bash, and purpose-built utilities for development and infrastructure workflows
 - **Artificial intelligence and machine learning:** Confident and experienced in applying AI technologies—including machine learning, deep learning, and large language models—to engineering and development workflows
 - **Agentic workflows:** Designing structured AI-agent workflows using defined skills, tools, instructions, validation steps, and controlled execution processes
-- **Interdisciplinary engineering:** Collaboration across software engineering, biology, chemistry, IT security, and other scientific domains
+- **Interdisciplinary engineering:** Collaboration across software engineering, biology, medicine, chemistry, IT security, and other scientific domains. In short: I "love" collaborative work and working in a team.
 
 ## AI-Assisted Engineering
 
