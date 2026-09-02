@@ -1,4 +1,4 @@
-# About Me
+# About Me (Repo Cleanup etc. still work in progress)
 
 I am a software developer and engineer who builds systems to solve concrete technical problems. Programming languages are tools—not identities—and I select them according to the constraints of the project, idea, or task.
 
