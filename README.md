@@ -1,36 +1,67 @@
-# About Me (Repo Cleanup etc. still work in progress)
+# About Me
 
-I am a software developer and engineer who builds systems to solve concrete technical problems. Programming languages are tools—not identities—and I select them according to the constraints of the project, idea, or task.
+I build software and hardware systems to solve practical problems. My work spans backend development, embedded systems, infrastructure, and interdisciplinary engineering.
 
-## Areas of Experience
+I prioritize correctness, performance, maintainability, security, and operational reliability. Programming languages are tools—not identities—and I select them according to technical constraints and architectural requirements. I value interdisciplinary teamwork and the exchange of complementary expertise.
 
-- **Low-level development:** C, C++, NASM assembly, systems programming, memory-conscious implementations, and hardware-near debugging
-- **Embedded systems:** Firmware, microcontrollers, peripheral integration, communication protocols, and software–hardware integration
-- **Backend engineering:** Scalable services and infrastructure for high-throughput workloads
-- **Linux and infrastructure:** Extensive experience with Linux systems, self-managed VPS infrastructure, service deployment, system maintenance, administration, and troubleshooting
-- **System hardening and security:** Practical experience with system hardening, secure configuration, access control, patch management, service isolation, monitoring, and operational maintenance
-- **Observability and operations:** Elastic/ELK Stack, Grafana, monitoring systems, logging pipelines, metrics, and operational diagnostics
-- **Automation and tooling:** PowerShell, Bash, and purpose-built utilities for development and infrastructure workflows
-- **Artificial intelligence and machine learning:** Confident and experienced in applying AI technologies—including machine learning, deep learning, and large language models—to engineering and development workflows
-- **Agentic workflows:** Designing structured AI-agent workflows using defined skills, tools, instructions, validation steps, and controlled execution processes
-- **Interdisciplinary engineering:** Collaboration across software engineering, biology, medicine, chemistry, IT security, and other scientific domains. In short: I "love" collaborative work and working in a team.
+## Professional Background
 
-## AI-Assisted Engineering
+During four years at **BTC-AG**, I contributed to the team-based development of energy-sector systems, working with scalable services, high-throughput infrastructure, and large existing codebases.
 
-I use artificial intelligence as a productivity and augmentation tool—not as a substitute for engineering judgment. My experience includes the practical use of machine learning, deep learning, and large language models in development, analysis, automation, documentation, and problem-solving workflows.
+- **Development:** .NET Framework / .NET, .NET Core, .NET Standard, ASP.NET, SQL, and Python utilities.
+- **Delivery and infrastructure:** Jenkins, Artifactory, and Octopus.
+- **Technical standards:** IEC 61850.
+- **Observability:** Elastic/ELK Stack, Grafana, logging pipelines, metrics, and operational diagnostics—also a focus of my thesis.
 
-I design agentic workflows that combine specialized skills, tools, context, and verification mechanisms. At the same time, I retain responsibility for the resulting work: I critically evaluate AI-generated output, verify assumptions, test implementations, and make independent technical decisions. AI enhances my productivity and output; it does not replace my knowledge, reasoning, or accountability.
+**Confidentiality:** Code developed at BTC-AG cannot be shared due to nondisclosure agreements.
 
-## Engineering Principles
+## Engineering Experience
 
-I focus on architecture, correctness, performance, maintainability, security, and operational reliability. I can implement user interfaces when required, but UI/UX design is not my principal discipline: I am an engineer, not a designer.
+My strongest software development expertise is in the **.NET ecosystem**, developed through four years of professional, team-based engineering at BTC-AG.
 
-If an idea or problem requires software, I build the software. If it requires hardware, I build the hardware. Frequently, it requires both.
+I also have strong **Python** proficiency, applied in scientific computing, data analysis, and engineering utilities. My [Thesis-Repository called "SAlly"](https://github.com/flipflopsen/SAlly) provides a publicly accessible example of my Python work.
 
-> Languages are tools. Engineering is the discipline of choosing and applying the right ones, as well as making architectural decisions.
+<details>
+<summary><strong>Systems, embedded development, and infrastructure</strong></summary>
+
+- **Low-level development:** C, C++, NASM assembly, memory-conscious implementations, and hardware-level debugging.
+- **Embedded systems:** Firmware, microcontrollers, peripheral integration, communication protocols, and software–hardware integration.
+- **Linux and infrastructure:** Linux administration, self-managed VPS infrastructure, service deployment, maintenance, and troubleshooting.
+- **Security and hardening:** Secure configuration, access control, patch management, service isolation, and monitoring.
+- **Automation:** PowerShell, Bash, and purpose-built development and infrastructure utilities.
+
+I build software, hardware, or both, depending on the problem. I implement user interfaces when required, but UI/UX design is not my principal discipline.
+
+</details>
+
+<details>
+<summary><strong>AI, machine learning, and agentic workflows</strong></summary>
+
+I apply machine learning, deep learning, and large language models to development, analysis, automation, documentation, and problem-solving.
+
+My experience includes designing, testing, and executing structured single- and multi-agent workflows with defined skills, tools, context, instructions, validation, and controlled execution.
+
+**AI augments my work; it does not replace engineering judgment.** I critically evaluate generated output, verify assumptions, test implementations, and make independent technical decisions. Responsibility and accountability remain mine.
+
+</details>
+
+<details>
+<summary><strong>Interdisciplinary collaboration</strong></summary>
+
+My experience includes scientific project groups and CTFs across several domains:
+
+- **Genome analysis:** Machine learning and deep learning during the COVID era.
+- **Medical research:** Exploratory data analysis of AI-generated proteins.
+- **IT security:** Personal projects, CTF participation and a couple of solved Machines on Hack-The-Box (HTB): [Write-Ups of now retired machines](https://github.com/flipflopsen/HTB-Writeups) .
+
+</details>
+
+## About This Portfolio
+
+These repositories are a selected collection of **side projects, thesis code, educational projects, scripts, and utilities**—often developed to address a specific practical need.
+
+They are not necessarily production-ready, fully secure, or actively maintained. They illustrate selected aspects of my work, rather than the full scope of my .NET expertise or my engineering practices within professional teams.
 
 ## Professional References
 
-The professional qualities underlying my work—including teamwork, reliability, precision, rapid learning, and the ability to deliver strong results—are documented and confirmed in my employment references (*Arbeitszeugnisse*).
-
-These documents are available as supporting evidence during the application process.
+My employment reference documents teamwork, reliability, precision, rapid learning, and strong results. Supporting documents are available during an application process.
