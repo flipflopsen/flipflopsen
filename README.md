@@ -1,67 +1,71 @@
 # About Me
 
-I build software and hardware systems to solve practical problems. My work spans backend development, embedded systems, infrastructure, and interdisciplinary engineering.
+I am a software developer and engineer with my strongest expertise in **.NET**, complemented by strong **Python** proficiency and experience with **observability and the Elastic/ELK Stack**.
 
-I prioritize correctness, performance, maintainability, security, and operational reliability. Programming languages are tools—not identities—and I select them according to technical constraints and architectural requirements. I value interdisciplinary teamwork and the exchange of complementary expertise.
+My work spans backend services, infrastructure, and interdisciplinary scientific projects. I evaluate technical decisions against requirements for correctness, performance, maintainability, security, and operational reliability.
 
-## Professional Background
+## Professional Experience
 
-During four years at **BTC-AG**, I contributed to the team-based development of energy-sector systems, working with scalable services, high-throughput infrastructure, and large existing codebases.
+During four years at **BTC-AG**, I worked in engineering teams developing energy-sector systems, contributing to services, high-throughput infrastructure, and large existing codebases.
 
-- **Development:** .NET Framework / .NET, .NET Core, .NET Standard, ASP.NET, SQL, and Python utilities.
-- **Delivery and infrastructure:** Jenkins, Artifactory, and Octopus.
-- **Technical standards:** IEC 61850.
-- **Observability:** Elastic/ELK Stack, Grafana, logging pipelines, metrics, and operational diagnostics—also a focus of my thesis.
+- **Software development:** .NET Framework, .NET Core and modern .NET, ASP.NET, libraries targeting .NET Standard, SQL, and Python utilities.
+- **Delivery tooling:** Jenkins, Artifactory, and Octopus Deploy.
+- **Domain standards:** Experience working with the IEC 61850 standards series.
+- **Observability:** Elastic/ELK Stack, Grafana, logging pipelines, metrics, and operational diagnostics.
 
-**Confidentiality:** Code developed at BTC-AG cannot be shared due to nondisclosure agreements.
+**Confidentiality:** Source code from my work at BTC-AG is not publicly available due to nondisclosure obligations.
 
-## Engineering Experience
+## Python and Thesis Work
 
-My strongest software development expertise is in the **.NET ecosystem**, developed through four years of professional, team-based engineering at BTC-AG.
+I use **Python** for scientific computing, data analysis, and engineering utilities. My thesis also focused on observability.
 
-I also have strong **Python** proficiency, applied in scientific computing, data analysis, and engineering utilities. My [Thesis-Repository called "SAlly"](https://github.com/flipflopsen/SAlly) provides a publicly accessible example of my Python work.
+The [SAlly thesis repository](https://github.com/flipflopsen/SAlly) provides a public example of my Python work.
+
+## Additional Engineering Experience
 
 <details>
 <summary><strong>Systems, embedded development, and infrastructure</strong></summary>
 
-- **Low-level development:** C, C++, NASM assembly, memory-conscious implementations, and hardware-level debugging.
+- **Low-level development:** C, C++, assembly using NASM, memory-conscious implementations, and hardware-level debugging.
 - **Embedded systems:** Firmware, microcontrollers, peripheral integration, communication protocols, and software–hardware integration.
 - **Linux and infrastructure:** Linux administration, self-managed VPS infrastructure, service deployment, maintenance, and troubleshooting.
 - **Security and hardening:** Secure configuration, access control, patch management, service isolation, and monitoring.
 - **Automation:** PowerShell, Bash, and purpose-built development and infrastructure utilities.
 
-I build software, hardware, or both, depending on the problem. I implement user interfaces when required, but UI/UX design is not my principal discipline.
+I work across software and hardware where the problem requires it. I implement user interfaces as needed; UI/UX design is not my primary specialization.
 
 </details>
 
 <details>
-<summary><strong>AI, machine learning, and agentic workflows</strong></summary>
+<summary><strong>AI, machine learning, and agent workflows</strong></summary>
 
-I apply machine learning, deep learning, and large language models to development, analysis, automation, documentation, and problem-solving.
+I apply machine learning and deep learning in scientific projects, and use large language models to support development, analysis, automation, and documentation.
 
-My experience includes designing, testing, and executing structured single- and multi-agent workflows with defined skills, tools, context, instructions, validation, and controlled execution.
+My experience includes designing and testing single- and multi-agent workflows with explicit tool access, context, instructions, validation steps, and execution controls.
 
-**AI augments my work; it does not replace engineering judgment.** I critically evaluate generated output, verify assumptions, test implementations, and make independent technical decisions. Responsibility and accountability remain mine.
+I review generated output, verify assumptions, and test implementations. Engineering decisions and responsibility remain mine.
 
 </details>
 
 <details>
-<summary><strong>Interdisciplinary collaboration</strong></summary>
+<summary><strong>Scientific collaboration and security projects</strong></summary>
 
-My experience includes scientific project groups and CTFs across several domains:
+I collaborate across scientific and technical disciplines, contributing software development and analytical methods.
 
-- **Genome analysis:** Machine learning and deep learning during the COVID era.
-- **Medical research:** Exploratory data analysis of AI-generated proteins.
-- **IT security:** Personal projects, CTF participation and a couple of solved Machines on Hack-The-Box (HTB): [Write-Ups of now retired machines](https://github.com/flipflopsen/HTB-Writeups) .
+- **Genome analysis:** Application of machine learning and deep learning in scientific project groups.
+- **Protein research:** Exploratory data analysis involving AI-generated proteins.
+- **IT security:** Independent projects, CTF participation, and Hack The Box challenges. Selected write-ups are available for [retired HTB machines](https://github.com/flipflopsen/HTB-Writeups).
 
 </details>
 
 ## About This Portfolio
 
-These repositories are a selected collection of **side projects, thesis code, educational projects, scripts, and utilities**—often developed to address a specific practical need.
+These repositories contain selected **personal projects, thesis code, educational work, scripts, and utilities**, often developed to address a specific practical need.
 
-They are not necessarily production-ready, fully secure, or actively maintained. They illustrate selected aspects of my work, rather than the full scope of my .NET expertise or my engineering practices within professional teams.
+Project maturity, intended use, and maintenance status vary. Consult each repository’s documentation before reuse, particularly in production or security-sensitive environments.
+
+This portfolio illustrates selected aspects of my work. It is not a complete representation of my professional .NET experience or contributions within engineering teams.
 
 ## Professional References
 
-My employment reference documents teamwork, reliability, precision, rapid learning, and strong results. Supporting documents are available during an application process.
+My employment reference documents my technical contributions and collaborative work at BTC-AG. Supporting documentation is available during the application process.
